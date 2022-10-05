@@ -1,0 +1,274 @@
+C:\Users\User\source\repos\RepoExercise\RepoExercise\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\User\source\repos\RepoExercise\RepoExercise\bin\Debug\net6.0\appsettings.json
+C:\Users\User\source\repos\RepoExercise\RepoExercise\bin\Debug\net6.0\RepoExercise.exe
+C:\Users\User\source\repos\RepoExercise\RepoExercise\bin\Debug\net6.0\RepoExercise.deps.json
+C:\Users\User\source\repos\RepoExercise\RepoExercise\bin\Debug\net6.0\RepoExercise.runtimeconfig.json
+C:\Users\User\source\repos\RepoExercise\RepoExercise\bin\Debug\net6.0\RepoExercise.dll
+C:\Users\User\source\repos\RepoExercise\RepoExercise\bin\Debug\net6.0\RepoExercise.pdb
+C:\Users\User\source\repos\RepoExercise\RepoExercise\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\source\repos\RepoExercise\RepoExercise\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\source\repos\RepoExercise\RepoExercise\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\source\repos\RepoExercise\RepoExercise\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\source\repos\RepoExercise\RepoExercise\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\source\repos\RepoExercise\RepoExercise\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\source\repos\RepoExercise\RepoExercise\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\User\source\repos\RepoExercise\RepoExercise\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\source\repos\RepoExercise\RepoExercise\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\source\repos\RepoExercise\RepoExercise\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\source\repos\RepoExercise\RepoExercise\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\source\repos\RepoExercise\RepoExercise\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\source\repos\RepoExercise\RepoExercise\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\User\source\repos\RepoExercise\RepoExercise\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\source\repos\RepoExercise\RepoExercise\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\source\repos\RepoExercise\RepoExercise\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\source\repos\RepoExercise\RepoExercise\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\source\repos\RepoExercise\RepoExercise\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User\source\repos\RepoExercise\RepoExercise\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\User\source\repos\RepoExercise\RepoExercise\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\source\repos\RepoExercise\RepoExercise\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\User\source\repos\RepoExercise\RepoExercise\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\source\repos\RepoExercise\RepoExercise\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\User\source\repos\RepoExercise\RepoExercise\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\User\source\repos\RepoExercise\RepoExercise\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\source\repos\RepoExercise\RepoExercise\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\source\repos\RepoExercise\RepoExercise\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\RepoExercise\RepoExercise\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\RepoExercise\RepoExercise\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\RepoExercise\RepoExercise\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\RepoExercise\RepoExercise\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\source\repos\RepoExercise\RepoExercise\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\source\repos\RepoExercise\RepoExercise\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\User\source\repos\RepoExercise\RepoExercise\bin\Debug\net6.0\DAL.dll
+C:\Users\User\source\repos\RepoExercise\RepoExercise\bin\Debug\net6.0\Repositories.dll
+C:\Users\User\source\repos\RepoExercise\RepoExercise\bin\Debug\net6.0\Services.dll
+C:\Users\User\source\repos\RepoExercise\RepoExercise\bin\Debug\net6.0\Services.pdb
+C:\Users\User\source\repos\RepoExercise\RepoExercise\bin\Debug\net6.0\DAL.pdb
+C:\Users\User\source\repos\RepoExercise\RepoExercise\bin\Debug\net6.0\Repositories.pdb
+C:\Users\User\source\repos\RepoExercise\RepoExercise\obj\Debug\net6.0\RepoExercise.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\RepoExercise\RepoExercise\obj\Debug\net6.0\RepoExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\RepoExercise\RepoExercise\obj\Debug\net6.0\RepoExercise.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\RepoExercise\RepoExercise\obj\Debug\net6.0\RepoExercise.AssemblyInfo.cs
+C:\Users\User\source\repos\RepoExercise\RepoExercise\obj\Debug\net6.0\RepoExercise.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\RepoExercise\RepoExercise\obj\Debug\net6.0\RepoExercise.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\source\repos\RepoExercise\RepoExercise\obj\Debug\net6.0\RepoExercise.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\source\repos\RepoExercise\RepoExercise\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\User\source\repos\RepoExercise\RepoExercise\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\User\source\repos\RepoExercise\RepoExercise\obj\Debug\net6.0\scopedcss\bundle\RepoExercise.styles.css
+C:\Users\User\source\repos\RepoExercise\RepoExercise\obj\Debug\net6.0\RepoExercise.csproj.CopyComplete
+C:\Users\User\source\repos\RepoExercise\RepoExercise\obj\Debug\net6.0\RepoExercise.dll
+C:\Users\User\source\repos\RepoExercise\RepoExercise\obj\Debug\net6.0\refint\RepoExercise.dll
+C:\Users\User\source\repos\RepoExercise\RepoExercise\obj\Debug\net6.0\RepoExercise.pdb
+C:\Users\User\source\repos\RepoExercise\RepoExercise\obj\Debug\net6.0\RepoExercise.genruntimeconfig.cache
+C:\Users\User\source\repos\RepoExercise\RepoExercise\obj\Debug\net6.0\ref\RepoExercise.dll
+C:\Users\User\source\repos\RepoExercise\RepoExercise\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\source\repos\RepoExercise\RepoExercise\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\User\source\repos\RepoExercise\RepoExercise\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\User\source\repos\RepoExercise\RepoExercise\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\User\source\repos\RepoExercise\RepoExercise\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\User\source\repos\RepoExercise\RepoExercise\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\DRIVEABLE\RepoExercise-20220826T080527Z-001\RepoExercise\RepoExercise\bin\Debug\net6.0\appsettings.Development.json
+E:\DRIVEABLE\RepoExercise-20220826T080527Z-001\RepoExercise\RepoExercise\bin\Debug\net6.0\appsettings.json
+E:\DRIVEABLE\RepoExercise-20220826T080527Z-001\RepoExercise\RepoExercise\bin\Debug\net6.0\RepoExercise.exe
+E:\DRIVEABLE\RepoExercise-20220826T080527Z-001\RepoExercise\RepoExercise\bin\Debug\net6.0\RepoExercise.deps.json
+E:\DRIVEABLE\RepoExercise-20220826T080527Z-001\RepoExercise\RepoExercise\bin\Debug\net6.0\RepoExercise.runtimeconfig.json
+E:\DRIVEABLE\RepoExercise-20220826T080527Z-001\RepoExercise\RepoExercise\bin\Debug\net6.0\RepoExercise.dll
+E:\DRIVEABLE\RepoExercise-20220826T080527Z-001\RepoExercise\RepoExercise\bin\Debug\net6.0\RepoExercise.pdb
+E:\DRIVEABLE\RepoExercise-20220826T080527Z-001\RepoExercise\RepoExercise\bin\Debug\net6.0\AutoMapper.dll
+E:\DRIVEABLE\RepoExercise-20220826T080527Z-001\RepoExercise\RepoExercise\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\DRIVEABLE\RepoExercise-20220826T080527Z-001\RepoExercise\RepoExercise\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\DRIVEABLE\RepoExercise-20220826T080527Z-001\RepoExercise\RepoExercise\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\DRIVEABLE\RepoExercise-20220826T080527Z-001\RepoExercise\RepoExercise\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\DRIVEABLE\RepoExercise-20220826T080527Z-001\RepoExercise\RepoExercise\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\DRIVEABLE\RepoExercise-20220826T080527Z-001\RepoExercise\RepoExercise\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\DRIVEABLE\RepoExercise-20220826T080527Z-001\RepoExercise\RepoExercise\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\DRIVEABLE\RepoExercise-20220826T080527Z-001\RepoExercise\RepoExercise\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\DRIVEABLE\RepoExercise-20220826T080527Z-001\RepoExercise\RepoExercise\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\DRIVEABLE\RepoExercise-20220826T080527Z-001\RepoExercise\RepoExercise\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\DRIVEABLE\RepoExercise-20220826T080527Z-001\RepoExercise\RepoExercise\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\DRIVEABLE\RepoExercise-20220826T080527Z-001\RepoExercise\RepoExercise\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\DRIVEABLE\RepoExercise-20220826T080527Z-001\RepoExercise\RepoExercise\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\DRIVEABLE\RepoExercise-20220826T080527Z-001\RepoExercise\RepoExercise\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\DRIVEABLE\RepoExercise-20220826T080527Z-001\RepoExercise\RepoExercise\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\DRIVEABLE\RepoExercise-20220826T080527Z-001\RepoExercise\RepoExercise\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\DRIVEABLE\RepoExercise-20220826T080527Z-001\RepoExercise\RepoExercise\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\DRIVEABLE\RepoExercise-20220826T080527Z-001\RepoExercise\RepoExercise\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\DRIVEABLE\RepoExercise-20220826T080527Z-001\RepoExercise\RepoExercise\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\DRIVEABLE\RepoExercise-20220826T080527Z-001\RepoExercise\RepoExercise\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\DRIVEABLE\RepoExercise-20220826T080527Z-001\RepoExercise\RepoExercise\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\DRIVEABLE\RepoExercise-20220826T080527Z-001\RepoExercise\RepoExercise\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\DRIVEABLE\RepoExercise-20220826T080527Z-001\RepoExercise\RepoExercise\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\DRIVEABLE\RepoExercise-20220826T080527Z-001\RepoExercise\RepoExercise\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\DRIVEABLE\RepoExercise-20220826T080527Z-001\RepoExercise\RepoExercise\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\DRIVEABLE\RepoExercise-20220826T080527Z-001\RepoExercise\RepoExercise\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\DRIVEABLE\RepoExercise-20220826T080527Z-001\RepoExercise\RepoExercise\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\DRIVEABLE\RepoExercise-20220826T080527Z-001\RepoExercise\RepoExercise\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\DRIVEABLE\RepoExercise-20220826T080527Z-001\RepoExercise\RepoExercise\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\DRIVEABLE\RepoExercise-20220826T080527Z-001\RepoExercise\RepoExercise\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\DRIVEABLE\RepoExercise-20220826T080527Z-001\RepoExercise\RepoExercise\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\DRIVEABLE\RepoExercise-20220826T080527Z-001\RepoExercise\RepoExercise\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\DRIVEABLE\RepoExercise-20220826T080527Z-001\RepoExercise\RepoExercise\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\DRIVEABLE\RepoExercise-20220826T080527Z-001\RepoExercise\RepoExercise\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\DRIVEABLE\RepoExercise-20220826T080527Z-001\RepoExercise\RepoExercise\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\DRIVEABLE\RepoExercise-20220826T080527Z-001\RepoExercise\RepoExercise\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\DRIVEABLE\RepoExercise-20220826T080527Z-001\RepoExercise\RepoExercise\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\DRIVEABLE\RepoExercise-20220826T080527Z-001\RepoExercise\RepoExercise\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\DRIVEABLE\RepoExercise-20220826T080527Z-001\RepoExercise\RepoExercise\bin\Debug\net6.0\DAL.dll
+E:\DRIVEABLE\RepoExercise-20220826T080527Z-001\RepoExercise\RepoExercise\bin\Debug\net6.0\Repositories.dll
+E:\DRIVEABLE\RepoExercise-20220826T080527Z-001\RepoExercise\RepoExercise\bin\Debug\net6.0\Services.dll
+E:\DRIVEABLE\RepoExercise-20220826T080527Z-001\RepoExercise\RepoExercise\bin\Debug\net6.0\Services.pdb
+E:\DRIVEABLE\RepoExercise-20220826T080527Z-001\RepoExercise\RepoExercise\bin\Debug\net6.0\DAL.pdb
+E:\DRIVEABLE\RepoExercise-20220826T080527Z-001\RepoExercise\RepoExercise\bin\Debug\net6.0\Repositories.pdb
+E:\DRIVEABLE\RepoExercise-20220826T080527Z-001\RepoExercise\RepoExercise\obj\Debug\net6.0\RepoExercise.csproj.AssemblyReference.cache
+E:\DRIVEABLE\RepoExercise-20220826T080527Z-001\RepoExercise\RepoExercise\obj\Debug\net6.0\RepoExercise.GeneratedMSBuildEditorConfig.editorconfig
+E:\DRIVEABLE\RepoExercise-20220826T080527Z-001\RepoExercise\RepoExercise\obj\Debug\net6.0\RepoExercise.AssemblyInfoInputs.cache
+E:\DRIVEABLE\RepoExercise-20220826T080527Z-001\RepoExercise\RepoExercise\obj\Debug\net6.0\RepoExercise.AssemblyInfo.cs
+E:\DRIVEABLE\RepoExercise-20220826T080527Z-001\RepoExercise\RepoExercise\obj\Debug\net6.0\RepoExercise.csproj.CoreCompileInputs.cache
+E:\DRIVEABLE\RepoExercise-20220826T080527Z-001\RepoExercise\RepoExercise\obj\Debug\net6.0\RepoExercise.MvcApplicationPartsAssemblyInfo.cs
+E:\DRIVEABLE\RepoExercise-20220826T080527Z-001\RepoExercise\RepoExercise\obj\Debug\net6.0\RepoExercise.MvcApplicationPartsAssemblyInfo.cache
+E:\DRIVEABLE\RepoExercise-20220826T080527Z-001\RepoExercise\RepoExercise\obj\Debug\net6.0\staticwebassets.build.json
+E:\DRIVEABLE\RepoExercise-20220826T080527Z-001\RepoExercise\RepoExercise\obj\Debug\net6.0\staticwebassets.development.json
+E:\DRIVEABLE\RepoExercise-20220826T080527Z-001\RepoExercise\RepoExercise\obj\Debug\net6.0\scopedcss\bundle\RepoExercise.styles.css
+E:\DRIVEABLE\RepoExercise-20220826T080527Z-001\RepoExercise\RepoExercise\obj\Debug\net6.0\RepoExercise.csproj.CopyComplete
+E:\DRIVEABLE\RepoExercise-20220826T080527Z-001\RepoExercise\RepoExercise\obj\Debug\net6.0\RepoExercise.dll
+E:\DRIVEABLE\RepoExercise-20220826T080527Z-001\RepoExercise\RepoExercise\obj\Debug\net6.0\refint\RepoExercise.dll
+E:\DRIVEABLE\RepoExercise-20220826T080527Z-001\RepoExercise\RepoExercise\obj\Debug\net6.0\RepoExercise.pdb
+E:\DRIVEABLE\RepoExercise-20220826T080527Z-001\RepoExercise\RepoExercise\obj\Debug\net6.0\RepoExercise.genruntimeconfig.cache
+E:\DRIVEABLE\RepoExercise-20220826T080527Z-001\RepoExercise\RepoExercise\obj\Debug\net6.0\ref\RepoExercise.dll
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\RepoExercise\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\RepoExercise\bin\Debug\net6.0\appsettings.json
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\RepoExercise\bin\Debug\net6.0\RepoExercise.exe
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\RepoExercise\bin\Debug\net6.0\RepoExercise.deps.json
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\RepoExercise\bin\Debug\net6.0\RepoExercise.runtimeconfig.json
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\RepoExercise\bin\Debug\net6.0\RepoExercise.dll
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\RepoExercise\bin\Debug\net6.0\RepoExercise.pdb
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\RepoExercise\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\RepoExercise\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\RepoExercise\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\RepoExercise\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\RepoExercise\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\RepoExercise\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\RepoExercise\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\RepoExercise\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\RepoExercise\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\RepoExercise\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\RepoExercise\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\RepoExercise\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\RepoExercise\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\RepoExercise\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\RepoExercise\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\RepoExercise\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\RepoExercise\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\RepoExercise\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\RepoExercise\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\RepoExercise\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\RepoExercise\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\RepoExercise\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\RepoExercise\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\RepoExercise\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\RepoExercise\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\RepoExercise\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\RepoExercise\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\RepoExercise\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\RepoExercise\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\RepoExercise\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\RepoExercise\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\RepoExercise\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\RepoExercise\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\RepoExercise\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\RepoExercise\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\RepoExercise\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\RepoExercise\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\RepoExercise\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\RepoExercise\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\RepoExercise\bin\Debug\net6.0\DAL.dll
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\RepoExercise\bin\Debug\net6.0\Repositories.dll
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\RepoExercise\bin\Debug\net6.0\Services.dll
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\RepoExercise\bin\Debug\net6.0\Services.pdb
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\RepoExercise\bin\Debug\net6.0\DAL.pdb
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\RepoExercise\bin\Debug\net6.0\Repositories.pdb
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\RepoExercise\obj\Debug\net6.0\RepoExercise.csproj.AssemblyReference.cache
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\RepoExercise\obj\Debug\net6.0\RepoExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\RepoExercise\obj\Debug\net6.0\RepoExercise.AssemblyInfoInputs.cache
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\RepoExercise\obj\Debug\net6.0\RepoExercise.AssemblyInfo.cs
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\RepoExercise\obj\Debug\net6.0\RepoExercise.csproj.CoreCompileInputs.cache
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\RepoExercise\obj\Debug\net6.0\RepoExercise.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\RepoExercise\obj\Debug\net6.0\RepoExercise.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\RepoExercise\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\RepoExercise\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\RepoExercise\obj\Debug\net6.0\scopedcss\bundle\RepoExercise.styles.css
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\RepoExercise\obj\Debug\net6.0\RepoExercise.csproj.CopyComplete
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\RepoExercise\obj\Debug\net6.0\RepoExercise.dll
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\RepoExercise\obj\Debug\net6.0\refint\RepoExercise.dll
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\RepoExercise\obj\Debug\net6.0\RepoExercise.pdb
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\RepoExercise\obj\Debug\net6.0\RepoExercise.genruntimeconfig.cache
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\RepoExercise\obj\Debug\net6.0\ref\RepoExercise.dll
+C:\Users\kfort\Desktop\New folder\DeliverableApi.NET\RepoExercise\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\kfort\Desktop\New folder\DeliverableApi.NET\RepoExercise\bin\Debug\net6.0\appsettings.json
+C:\Users\kfort\Desktop\New folder\DeliverableApi.NET\RepoExercise\bin\Debug\net6.0\RepoExercise.exe
+C:\Users\kfort\Desktop\New folder\DeliverableApi.NET\RepoExercise\bin\Debug\net6.0\RepoExercise.deps.json
+C:\Users\kfort\Desktop\New folder\DeliverableApi.NET\RepoExercise\bin\Debug\net6.0\RepoExercise.runtimeconfig.json
+C:\Users\kfort\Desktop\New folder\DeliverableApi.NET\RepoExercise\bin\Debug\net6.0\RepoExercise.dll
+C:\Users\kfort\Desktop\New folder\DeliverableApi.NET\RepoExercise\bin\Debug\net6.0\RepoExercise.pdb
+C:\Users\kfort\Desktop\New folder\DeliverableApi.NET\RepoExercise\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\kfort\Desktop\New folder\DeliverableApi.NET\RepoExercise\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\kfort\Desktop\New folder\DeliverableApi.NET\RepoExercise\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\kfort\Desktop\New folder\DeliverableApi.NET\RepoExercise\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\kfort\Desktop\New folder\DeliverableApi.NET\RepoExercise\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\kfort\Desktop\New folder\DeliverableApi.NET\RepoExercise\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kfort\Desktop\New folder\DeliverableApi.NET\RepoExercise\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\kfort\Desktop\New folder\DeliverableApi.NET\RepoExercise\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\kfort\Desktop\New folder\DeliverableApi.NET\RepoExercise\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\kfort\Desktop\New folder\DeliverableApi.NET\RepoExercise\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\kfort\Desktop\New folder\DeliverableApi.NET\RepoExercise\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\kfort\Desktop\New folder\DeliverableApi.NET\RepoExercise\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\kfort\Desktop\New folder\DeliverableApi.NET\RepoExercise\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\kfort\Desktop\New folder\DeliverableApi.NET\RepoExercise\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\kfort\Desktop\New folder\DeliverableApi.NET\RepoExercise\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\kfort\Desktop\New folder\DeliverableApi.NET\RepoExercise\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\kfort\Desktop\New folder\DeliverableApi.NET\RepoExercise\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kfort\Desktop\New folder\DeliverableApi.NET\RepoExercise\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\kfort\Desktop\New folder\DeliverableApi.NET\RepoExercise\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\kfort\Desktop\New folder\DeliverableApi.NET\RepoExercise\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\kfort\Desktop\New folder\DeliverableApi.NET\RepoExercise\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\kfort\Desktop\New folder\DeliverableApi.NET\RepoExercise\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\kfort\Desktop\New folder\DeliverableApi.NET\RepoExercise\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\kfort\Desktop\New folder\DeliverableApi.NET\RepoExercise\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\kfort\Desktop\New folder\DeliverableApi.NET\RepoExercise\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kfort\Desktop\New folder\DeliverableApi.NET\RepoExercise\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\kfort\Desktop\New folder\DeliverableApi.NET\RepoExercise\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\kfort\Desktop\New folder\DeliverableApi.NET\RepoExercise\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\kfort\Desktop\New folder\DeliverableApi.NET\RepoExercise\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\kfort\Desktop\New folder\DeliverableApi.NET\RepoExercise\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kfort\Desktop\New folder\DeliverableApi.NET\RepoExercise\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kfort\Desktop\New folder\DeliverableApi.NET\RepoExercise\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kfort\Desktop\New folder\DeliverableApi.NET\RepoExercise\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kfort\Desktop\New folder\DeliverableApi.NET\RepoExercise\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kfort\Desktop\New folder\DeliverableApi.NET\RepoExercise\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\kfort\Desktop\New folder\DeliverableApi.NET\RepoExercise\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\kfort\Desktop\New folder\DeliverableApi.NET\RepoExercise\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\kfort\Desktop\New folder\DeliverableApi.NET\RepoExercise\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kfort\Desktop\New folder\DeliverableApi.NET\RepoExercise\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\kfort\Desktop\New folder\DeliverableApi.NET\RepoExercise\bin\Debug\net6.0\DAL.dll
+C:\Users\kfort\Desktop\New folder\DeliverableApi.NET\RepoExercise\bin\Debug\net6.0\Repositories.dll
+C:\Users\kfort\Desktop\New folder\DeliverableApi.NET\RepoExercise\bin\Debug\net6.0\Services.dll
+C:\Users\kfort\Desktop\New folder\DeliverableApi.NET\RepoExercise\bin\Debug\net6.0\Services.pdb
+C:\Users\kfort\Desktop\New folder\DeliverableApi.NET\RepoExercise\bin\Debug\net6.0\DAL.pdb
+C:\Users\kfort\Desktop\New folder\DeliverableApi.NET\RepoExercise\bin\Debug\net6.0\Repositories.pdb
+C:\Users\kfort\Desktop\New folder\DeliverableApi.NET\RepoExercise\obj\Debug\net6.0\RepoExercise.csproj.AssemblyReference.cache
+C:\Users\kfort\Desktop\New folder\DeliverableApi.NET\RepoExercise\obj\Debug\net6.0\RepoExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kfort\Desktop\New folder\DeliverableApi.NET\RepoExercise\obj\Debug\net6.0\RepoExercise.AssemblyInfoInputs.cache
+C:\Users\kfort\Desktop\New folder\DeliverableApi.NET\RepoExercise\obj\Debug\net6.0\RepoExercise.AssemblyInfo.cs
+C:\Users\kfort\Desktop\New folder\DeliverableApi.NET\RepoExercise\obj\Debug\net6.0\RepoExercise.csproj.CoreCompileInputs.cache
+C:\Users\kfort\Desktop\New folder\DeliverableApi.NET\RepoExercise\obj\Debug\net6.0\RepoExercise.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kfort\Desktop\New folder\DeliverableApi.NET\RepoExercise\obj\Debug\net6.0\RepoExercise.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kfort\Desktop\New folder\DeliverableApi.NET\RepoExercise\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\kfort\Desktop\New folder\DeliverableApi.NET\RepoExercise\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\kfort\Desktop\New folder\DeliverableApi.NET\RepoExercise\obj\Debug\net6.0\scopedcss\bundle\RepoExercise.styles.css
+C:\Users\kfort\Desktop\New folder\DeliverableApi.NET\RepoExercise\obj\Debug\net6.0\RepoExercise.csproj.CopyComplete
+C:\Users\kfort\Desktop\New folder\DeliverableApi.NET\RepoExercise\obj\Debug\net6.0\RepoExercise.dll
+C:\Users\kfort\Desktop\New folder\DeliverableApi.NET\RepoExercise\obj\Debug\net6.0\refint\RepoExercise.dll
+C:\Users\kfort\Desktop\New folder\DeliverableApi.NET\RepoExercise\obj\Debug\net6.0\RepoExercise.pdb
+C:\Users\kfort\Desktop\New folder\DeliverableApi.NET\RepoExercise\obj\Debug\net6.0\RepoExercise.genruntimeconfig.cache
+C:\Users\kfort\Desktop\New folder\DeliverableApi.NET\RepoExercise\obj\Debug\net6.0\ref\RepoExercise.dll
+C:\Users\kfort\Desktop\New folder\DeliverableApi.NET\RepoExercise\bin\Debug\net6.0\Humanizer.dll
+C:\Users\kfort\Desktop\New folder\DeliverableApi.NET\RepoExercise\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll

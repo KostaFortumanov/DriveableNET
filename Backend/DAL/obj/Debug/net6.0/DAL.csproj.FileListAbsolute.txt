@@ -1,0 +1,56 @@
+C:\Users\User\source\repos\RepoExercise\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\User\source\repos\RepoExercise\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+C:\Users\User\source\repos\RepoExercise\DAL\bin\Debug\net6.0\DAL.dll
+C:\Users\User\source\repos\RepoExercise\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\User\source\repos\RepoExercise\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\RepoExercise\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\RepoExercise\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\RepoExercise\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\User\source\repos\RepoExercise\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\RepoExercise\DAL\obj\Debug\net6.0\DAL.dll
+C:\Users\User\source\repos\RepoExercise\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\Users\User\source\repos\RepoExercise\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Users\User\source\repos\RepoExercise\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+C:\Users\User\source\repos\RepoExercise\DAL\obj\Debug\net6.0\ref\DAL.dll
+E:\DRIVEABLE\RepoExercise-20220826T080527Z-001\RepoExercise\DAL\bin\Debug\net6.0\DAL.deps.json
+E:\DRIVEABLE\RepoExercise-20220826T080527Z-001\RepoExercise\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+E:\DRIVEABLE\RepoExercise-20220826T080527Z-001\RepoExercise\DAL\bin\Debug\net6.0\DAL.dll
+E:\DRIVEABLE\RepoExercise-20220826T080527Z-001\RepoExercise\DAL\bin\Debug\net6.0\DAL.pdb
+E:\DRIVEABLE\RepoExercise-20220826T080527Z-001\RepoExercise\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+E:\DRIVEABLE\RepoExercise-20220826T080527Z-001\RepoExercise\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\DRIVEABLE\RepoExercise-20220826T080527Z-001\RepoExercise\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+E:\DRIVEABLE\RepoExercise-20220826T080527Z-001\RepoExercise\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+E:\DRIVEABLE\RepoExercise-20220826T080527Z-001\RepoExercise\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+E:\DRIVEABLE\RepoExercise-20220826T080527Z-001\RepoExercise\DAL\obj\Debug\net6.0\DAL.dll
+E:\DRIVEABLE\RepoExercise-20220826T080527Z-001\RepoExercise\DAL\obj\Debug\net6.0\refint\DAL.dll
+E:\DRIVEABLE\RepoExercise-20220826T080527Z-001\RepoExercise\DAL\obj\Debug\net6.0\DAL.pdb
+E:\DRIVEABLE\RepoExercise-20220826T080527Z-001\RepoExercise\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+E:\DRIVEABLE\RepoExercise-20220826T080527Z-001\RepoExercise\DAL\obj\Debug\net6.0\ref\DAL.dll
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\DAL\bin\Debug\net6.0\DAL.dll
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\DAL\obj\Debug\net6.0\DAL.dll
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\DAL\obj\Debug\net6.0\ref\DAL.dll
+C:\Users\kfort\Desktop\New folder\DeliverableApi.NET\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\kfort\Desktop\New folder\DeliverableApi.NET\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+C:\Users\kfort\Desktop\New folder\DeliverableApi.NET\DAL\bin\Debug\net6.0\DAL.dll
+C:\Users\kfort\Desktop\New folder\DeliverableApi.NET\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\kfort\Desktop\New folder\DeliverableApi.NET\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\kfort\Desktop\New folder\DeliverableApi.NET\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kfort\Desktop\New folder\DeliverableApi.NET\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\kfort\Desktop\New folder\DeliverableApi.NET\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\kfort\Desktop\New folder\DeliverableApi.NET\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\kfort\Desktop\New folder\DeliverableApi.NET\DAL\obj\Debug\net6.0\DAL.dll
+C:\Users\kfort\Desktop\New folder\DeliverableApi.NET\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\Users\kfort\Desktop\New folder\DeliverableApi.NET\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Users\kfort\Desktop\New folder\DeliverableApi.NET\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+C:\Users\kfort\Desktop\New folder\DeliverableApi.NET\DAL\obj\Debug\net6.0\ref\DAL.dll

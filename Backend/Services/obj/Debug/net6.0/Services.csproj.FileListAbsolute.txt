@@ -1,0 +1,68 @@
+C:\Users\User\source\repos\RepoExercise\Services\bin\Debug\net6.0\Services.deps.json
+C:\Users\User\source\repos\RepoExercise\Services\bin\Debug\net6.0\Services.dll
+C:\Users\User\source\repos\RepoExercise\Services\bin\Debug\net6.0\Services.pdb
+C:\Users\User\source\repos\RepoExercise\Services\bin\Debug\net6.0\DAL.dll
+C:\Users\User\source\repos\RepoExercise\Services\bin\Debug\net6.0\Repositories.dll
+C:\Users\User\source\repos\RepoExercise\Services\bin\Debug\net6.0\Repositories.pdb
+C:\Users\User\source\repos\RepoExercise\Services\bin\Debug\net6.0\DAL.pdb
+C:\Users\User\source\repos\RepoExercise\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\RepoExercise\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\RepoExercise\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\RepoExercise\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+C:\Users\User\source\repos\RepoExercise\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\RepoExercise\Services\obj\Debug\net6.0\Services.csproj.CopyComplete
+C:\Users\User\source\repos\RepoExercise\Services\obj\Debug\net6.0\Services.dll
+C:\Users\User\source\repos\RepoExercise\Services\obj\Debug\net6.0\refint\Services.dll
+C:\Users\User\source\repos\RepoExercise\Services\obj\Debug\net6.0\Services.pdb
+C:\Users\User\source\repos\RepoExercise\Services\obj\Debug\net6.0\ref\Services.dll
+E:\DRIVEABLE\RepoExercise-20220826T080527Z-001\RepoExercise\Services\bin\Debug\net6.0\Services.deps.json
+E:\DRIVEABLE\RepoExercise-20220826T080527Z-001\RepoExercise\Services\bin\Debug\net6.0\Services.dll
+E:\DRIVEABLE\RepoExercise-20220826T080527Z-001\RepoExercise\Services\bin\Debug\net6.0\Services.pdb
+E:\DRIVEABLE\RepoExercise-20220826T080527Z-001\RepoExercise\Services\bin\Debug\net6.0\DAL.dll
+E:\DRIVEABLE\RepoExercise-20220826T080527Z-001\RepoExercise\Services\bin\Debug\net6.0\Repositories.dll
+E:\DRIVEABLE\RepoExercise-20220826T080527Z-001\RepoExercise\Services\bin\Debug\net6.0\Repositories.pdb
+E:\DRIVEABLE\RepoExercise-20220826T080527Z-001\RepoExercise\Services\bin\Debug\net6.0\DAL.pdb
+E:\DRIVEABLE\RepoExercise-20220826T080527Z-001\RepoExercise\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+E:\DRIVEABLE\RepoExercise-20220826T080527Z-001\RepoExercise\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+E:\DRIVEABLE\RepoExercise-20220826T080527Z-001\RepoExercise\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+E:\DRIVEABLE\RepoExercise-20220826T080527Z-001\RepoExercise\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+E:\DRIVEABLE\RepoExercise-20220826T080527Z-001\RepoExercise\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+E:\DRIVEABLE\RepoExercise-20220826T080527Z-001\RepoExercise\Services\obj\Debug\net6.0\Services.csproj.CopyComplete
+E:\DRIVEABLE\RepoExercise-20220826T080527Z-001\RepoExercise\Services\obj\Debug\net6.0\Services.dll
+E:\DRIVEABLE\RepoExercise-20220826T080527Z-001\RepoExercise\Services\obj\Debug\net6.0\refint\Services.dll
+E:\DRIVEABLE\RepoExercise-20220826T080527Z-001\RepoExercise\Services\obj\Debug\net6.0\Services.pdb
+E:\DRIVEABLE\RepoExercise-20220826T080527Z-001\RepoExercise\Services\obj\Debug\net6.0\ref\Services.dll
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\Services\bin\Debug\net6.0\Services.deps.json
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\Services\bin\Debug\net6.0\Services.dll
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\Services\bin\Debug\net6.0\Services.pdb
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\Services\bin\Debug\net6.0\DAL.dll
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\Services\bin\Debug\net6.0\Repositories.dll
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\Services\bin\Debug\net6.0\Repositories.pdb
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\Services\bin\Debug\net6.0\DAL.pdb
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\Services\obj\Debug\net6.0\Services.csproj.CopyComplete
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\Services\obj\Debug\net6.0\Services.dll
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\Services\obj\Debug\net6.0\refint\Services.dll
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\Services\obj\Debug\net6.0\Services.pdb
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\Services\obj\Debug\net6.0\ref\Services.dll
+C:\Users\kfort\Desktop\New folder\DeliverableApi.NET\Services\bin\Debug\net6.0\Services.deps.json
+C:\Users\kfort\Desktop\New folder\DeliverableApi.NET\Services\bin\Debug\net6.0\Services.dll
+C:\Users\kfort\Desktop\New folder\DeliverableApi.NET\Services\bin\Debug\net6.0\Services.pdb
+C:\Users\kfort\Desktop\New folder\DeliverableApi.NET\Services\bin\Debug\net6.0\DAL.dll
+C:\Users\kfort\Desktop\New folder\DeliverableApi.NET\Services\bin\Debug\net6.0\Repositories.dll
+C:\Users\kfort\Desktop\New folder\DeliverableApi.NET\Services\bin\Debug\net6.0\Repositories.pdb
+C:\Users\kfort\Desktop\New folder\DeliverableApi.NET\Services\bin\Debug\net6.0\DAL.pdb
+C:\Users\kfort\Desktop\New folder\DeliverableApi.NET\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+C:\Users\kfort\Desktop\New folder\DeliverableApi.NET\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kfort\Desktop\New folder\DeliverableApi.NET\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+C:\Users\kfort\Desktop\New folder\DeliverableApi.NET\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+C:\Users\kfort\Desktop\New folder\DeliverableApi.NET\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\kfort\Desktop\New folder\DeliverableApi.NET\Services\obj\Debug\net6.0\Services.csproj.CopyComplete
+C:\Users\kfort\Desktop\New folder\DeliverableApi.NET\Services\obj\Debug\net6.0\Services.dll
+C:\Users\kfort\Desktop\New folder\DeliverableApi.NET\Services\obj\Debug\net6.0\refint\Services.dll
+C:\Users\kfort\Desktop\New folder\DeliverableApi.NET\Services\obj\Debug\net6.0\Services.pdb
+C:\Users\kfort\Desktop\New folder\DeliverableApi.NET\Services\obj\Debug\net6.0\ref\Services.dll

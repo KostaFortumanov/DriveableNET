@@ -1,0 +1,51 @@
+<mat-toolbar color="primary">
+  <mat-toolbar-row>
+    <a *ngIf="!isLoggedIn() || tokenStorageService.getUser()?.userRole == 'USER'" [routerLink]="['/posts', 1]" style="color: white">
+      Deliverable
+    </a>
+    <a *ngIf="tokenStorageService.getUser()?.userRole == 'MODERATOR'" [routerLink]="['/moderator/posts']" style="color: white">
+      Deliverable
+    </a>
+
+    <div fxFlex fxLayout="row" fxLayoutAlign="flex-end">
+      <mat-chip-list *ngIf="!isLoggedIn()">
+        <a routerLink="/auth/register">
+          <mat-chip color="accent" selected>
+            Register
+          </mat-chip>
+        </a>
+        <a routerLink="/auth/login">
+          <mat-chip>
+            Log in
+          </mat-chip>
+        </a>
+      </mat-chip-list>
+
+      <mat-chip-list *ngIf="isLoggedIn()">
+        <a *ngIf="tokenStorageService.getUser()?.userRole == 'USER'" (click)="openCreatPostDialog()">
+          <mat-chip color="accent" selected>
+            Create post
+          </mat-chip>
+        </a>
+        <p style="margin: 0">{{name()}}</p>
+        <button mat-icon-button [matMenuTriggerFor]="menu">
+          <mat-icon>more_vert</mat-icon>
+        </button>
+        <mat-menu #menu="matMenu">
+          <button *ngIf="tokenStorageService.getUser()?.userRole == 'USER'" mat-menu-item (click)="openEditProfileDialog()">
+            <mat-icon>person</mat-icon>
+            <span>Edit profile</span>
+          </button>
+          <a *ngIf="tokenStorageService.getUser()?.userRole == 'USER'" routerLink="myPosts" mat-menu-item>
+            <mat-icon>library_books</mat-icon>
+            <span>Your posts</span>
+          </a>
+          <button mat-menu-item (click)="signOut()">
+            <mat-icon>exit_to_app</mat-icon>
+            <span>Log out</span>
+          </button>
+        </mat-menu>
+      </mat-chip-list>
+    </div>
+  </mat-toolbar-row>
+</mat-toolbar>

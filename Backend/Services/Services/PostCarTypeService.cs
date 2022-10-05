@@ -1,0 +1,20 @@
+﻿using Repositories.UnitOfWork;
+using Services.Interfaces;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Services.Services
+{
+    public class PostCarTypeService : IPostCarTypeService
+    {
+        private readonly IUnitOfWork _unitOfWork;
+
+        public PostCarTypeService(IUnitOfWork unitOfWork)
+        {
+            _unitOfWork = unitOfWork;
+        }
+    }
+}
